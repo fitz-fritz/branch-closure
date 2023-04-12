@@ -1,0 +1,13 @@
+name: branch-closure
+title: branch-closure
+username:
+account: fitzfritzdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8675631
+bundleId: 7009077
+url: https://fitzfritzdata.shinyapps.io/branch-closure/
+when: 1679818389.60997
+lastSyncTime: 1679818389.60997
+asMultiple: FALSE
+asStatic: FALSE
